@@ -39,7 +39,3 @@ For any inquiries or collaboration opportunities, you can reach out to us via em
 ## Join CanWeBe and Contribute!
 
 We invite developers, designers, and enthusiasts to join our organization and contribute to our projects. Together, we can make a difference and create innovative solutions that benefit society. If you're interested in becoming a contributor, check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute our code in accordance with the terms of the license.

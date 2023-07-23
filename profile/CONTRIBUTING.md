@@ -4,7 +4,7 @@ We appreciate your interest in contributing to CanWeBe! By contributing to our p
 
 ## 1. Reporting Issues
 
-If you encounter any bugs, issues, or have suggestions for improvements, please let us know by [opening an issue](https://github.com/CanWeBe-Org/YourRepositoryName/issues). We welcome feedback from the community, and your input will help us enhance the quality of our projects.
+If you encounter any bugs, issues, or have suggestions for improvements, please let us know by **opening an issue** in any projects. We welcome feedback from the community, and your input will help us enhance the quality of our projects.
 
 When reporting issues, please provide the following details:
 - A clear and descriptive title

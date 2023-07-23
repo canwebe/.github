@@ -57,7 +57,7 @@ For any inquiries or collaboration opportunities, you can reach out to us via em
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute our code in accordance with the terms of the license.
+Some projects are licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute our code in accordance with the terms of the license.
 
 ---
 
